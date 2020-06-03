@@ -36,3 +36,6 @@ Input:  HCP folder containing subject IDs
 Output: Voxel-brain graph and interpolated volumes
  
 The struct 'param' contains all the parameter information and paths.
+
+Research paradigm:
+![](images/Graphical-Abstract.png)
